@@ -5,10 +5,10 @@ _"Not just a tech lover."_ 💡
 
 🚀 Passionate and results-driven engineer with 6+ years of experience building high-performance mobile and web applications, scalable backend systems, and secure platforms. I specialize in full-stack development using modern frameworks and tools like **React**, **Angular**, **Nest.js**, and the **MERN stack**.  
 
-🔍 Currently **learning Golang**, and experienced with **Java (Spring Boot)** for enterprise-grade backend services.  
+🔍 Currently **exploring Golang**, and experienced with **Java (Spring Boot)** for enterprise-grade backend services.  
 I also develop **mobile applications** using **Flutter**, **React Native**, and **Android Studio**.  
 
-🧱 Exploring the decentralized future with **Solidity**, **Rust**, **Move**, and tools like **Ether.js** and **Web3.js**.  
+🧱 also exploring the decentralized future with **Solidity**, **Rust**, **Move**, and tools like **Ether.js** and **Web3.js**.  
 🎯 Outside tech? You’ll catch me in a **chess match** or chilling with my **cats**. 🐾
 
 ---
