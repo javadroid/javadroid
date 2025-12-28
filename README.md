@@ -55,7 +55,7 @@ Built and maintained multiple full-stack systems, focusing heavily on backend ar
 
 ## 🌐 Let's Connect
 
-- My Playground Portfolio: [javadroid.netlify.app](https://javadroid.netlify.app/)
+- My Playground Portfolio: (https://ochigbo.vercel.app/)
 - LinkedIn: [Emmanuel Ochigbo](https://www.linkedin.com/in/eochigbo/)
 - GitHub: [github.com/javadroid](https://github.com/javadroid)
 - Email: [ochigboemmanuel32@gmail.com](mailto:ochigboemmanuel32@gmail.com)
